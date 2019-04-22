@@ -1,0 +1,4 @@
+The license for cx_Freeze can be viewed at https://cx-freeze.readthedocs.io/en/latest/license.html
+
+NOTE: armaan115 does NOT own the rights to the cx_Freeze package. 
+To learn more, go to https://cx-freeze.readthedocs.io/en/latest/license.html
